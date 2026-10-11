@@ -1,4 +1,4 @@
-package BehaviouralPatterns.GoodCode;
+package BehaviouralPatterns.Observer_Pattern.GoodCode;
 
 interface Subject {
     void Attach(Observer obs);

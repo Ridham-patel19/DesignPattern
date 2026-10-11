@@ -1,4 +1,4 @@
-package BehaviouralPatterns;
+package BehaviouralPatterns.CommandPattern;
 
  interface Command {
      void execute();

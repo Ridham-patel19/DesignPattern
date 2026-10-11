@@ -99,4 +99,6 @@ public class WithAbstractFactory {
 //AbstarctFactory pattern  helps us to cretae family of objecs
 //as you can see that in Win there lot of  components and same in Mac
 
-// now client doesnot know anything its justt pass that which Os it needs to appp and app returns that
+// now client doesnot know anything its justt pass that which Os it needs to
+// appp and app returns that
+//it has multiple factory classes

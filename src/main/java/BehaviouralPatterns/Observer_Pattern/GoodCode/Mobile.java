@@ -1,4 +1,4 @@
-package BehaviouralPatterns.GoodCode;
+package BehaviouralPatterns.Observer_Pattern.GoodCode;
 
 class Mobile implements Observer {
 
