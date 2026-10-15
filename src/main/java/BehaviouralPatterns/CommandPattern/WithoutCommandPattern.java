@@ -26,7 +26,7 @@ class Button{
         this.editor = editor;
     }
 
-    public void click(String commmand){
+    public void click(String commmand) {
         if(commmand == "MakeBold"){
             editor.MakeBold();
         }else if(commmand == "OnlyUpperCase"){
